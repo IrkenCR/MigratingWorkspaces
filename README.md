@@ -2,8 +2,8 @@
 This repository will have scripts dedicated to migrate Power BI Workspaces.
 
 
-## MigratingWorkspacesToNewCapacity Folder
-This is an script that will take a .csv input with all the workspaces you want to migrate to a specific capacity.
+## Migrate Workspaces to a Capacity Folder
+In this folder you will find an script that will take a .csv input with all the workspaces you want to migrate to a specific capacity.
 You can generate this file by two ways:
 
 ### 1. Exporting the workspaces from the Power BI Admin Portal
